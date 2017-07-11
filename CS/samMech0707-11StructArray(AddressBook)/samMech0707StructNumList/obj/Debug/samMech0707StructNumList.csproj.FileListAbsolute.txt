@@ -1,0 +1,9 @@
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\bin\Debug\samMech0707StructNumList.exe.config
+C:\Users\LSG-LAPTOP\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\bin\Debug\samMech0707StructNumList.exe
+C:\Users\LSG-LAPTOP\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\bin\Debug\samMech0707StructNumList.pdb
+C:\Users\LSG-LAPTOP\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\obj\Debug\samMech0707StructNumList.csprojResolveAssemblyReference.cache
+C:\Users\LSG-LAPTOP\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\obj\Debug\samMech0707StructNumList.Form1.resources
+C:\Users\LSG-LAPTOP\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\obj\Debug\samMech0707StructNumList.Properties.Resources.resources
+C:\Users\LSG-LAPTOP\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\obj\Debug\samMech0707StructNumList.csproj.GenerateResource.Cache
+C:\Users\LSG-LAPTOP\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\obj\Debug\samMech0707StructNumList.exe
+C:\Users\LSG-LAPTOP\documents\visual studio 2012\Projects\samMech0707StructNumList\samMech0707StructNumList\obj\Debug\samMech0707StructNumList.pdb

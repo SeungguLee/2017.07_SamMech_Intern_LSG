@@ -1,0 +1,9 @@
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\bin\Debug\samMech0706wholeKeyboard.exe.config
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\obj\Debug\samMech0706wholeKeyboard.csprojResolveAssemblyReference.cache
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\obj\Debug\samMech0706wholeKeyboard.Form1.resources
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\obj\Debug\samMech0706wholeKeyboard.Properties.Resources.resources
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\obj\Debug\samMech0706wholeKeyboard.csproj.GenerateResource.Cache
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\bin\Debug\samMech0706wholeKeyboard.exe
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\bin\Debug\samMech0706wholeKeyboard.pdb
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\obj\Debug\samMech0706wholeKeyboard.exe
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\samMech0706wholeKeyboard\samMech0706wholeKeyboard\obj\Debug\samMech0706wholeKeyboard.pdb

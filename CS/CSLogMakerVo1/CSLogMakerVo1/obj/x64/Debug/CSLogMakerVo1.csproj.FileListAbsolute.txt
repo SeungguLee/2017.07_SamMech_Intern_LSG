@@ -1,0 +1,9 @@
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\bin\x64\Debug\CSLogMakerVo1.exe.config
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\bin\x64\Debug\CSLogMakerVo1.exe
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\bin\x64\Debug\CSLogMakerVo1.pdb
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\obj\x64\Debug\CSLogMakerVo1.Form1.resources
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\obj\x64\Debug\CSLogMakerVo1.Properties.Resources.resources
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\obj\x64\Debug\CSLogMakerVo1.csproj.GenerateResource.Cache
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\obj\x64\Debug\CSLogMakerVo1.exe
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\obj\x64\Debug\CSLogMakerVo1.pdb
+c:\users\lsg-laptop\documents\visual studio 2012\Projects\CSLogMakerVo1\CSLogMakerVo1\obj\x64\Debug\CSLogMakerVo1.csprojResolveAssemblyReference.cache
