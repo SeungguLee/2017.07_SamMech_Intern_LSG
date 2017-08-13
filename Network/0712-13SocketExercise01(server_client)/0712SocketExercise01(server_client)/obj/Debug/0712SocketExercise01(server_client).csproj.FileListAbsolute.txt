@@ -1,9 +1,0 @@
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\bin\Debug\0712SocketExercise01(server_client).exe.config
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\bin\Debug\0712SocketExercise01(server_client).exe
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\bin\Debug\0712SocketExercise01(server_client).pdb
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\obj\Debug\_0712SocketExercise01_server_client_.Form1.resources
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\obj\Debug\_0712SocketExercise01_server_client_.Properties.Resources.resources
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\obj\Debug\0712SocketExercise01(server_client).csproj.GenerateResource.Cache
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\obj\Debug\0712SocketExercise01(server_client).exe
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\obj\Debug\0712SocketExercise01(server_client).pdb
-C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\0712SocketExercise01(server_client)\0712SocketExercise01(server_client)\obj\Debug\0712SocketExercise01(server_client).csprojResolveAssemblyReference.cache

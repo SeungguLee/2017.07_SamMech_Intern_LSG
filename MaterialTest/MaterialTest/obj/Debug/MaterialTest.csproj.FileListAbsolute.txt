@@ -1,0 +1,10 @@
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\bin\Debug\MaterialTest.exe.config
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\obj\Debug\MaterialTest.csprojResolveAssemblyReference.cache
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\obj\Debug\MaterialTest.Form1.resources
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\obj\Debug\MaterialTest.Properties.Resources.resources
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\obj\Debug\MaterialTest.csproj.GenerateResource.Cache
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\bin\Debug\MaterialTest.exe
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\bin\Debug\MaterialTest.pdb
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\bin\Debug\MaterialSkin.dll
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\obj\Debug\MaterialTest.exe
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\MaterialTest\MaterialTest\obj\Debug\MaterialTest.pdb

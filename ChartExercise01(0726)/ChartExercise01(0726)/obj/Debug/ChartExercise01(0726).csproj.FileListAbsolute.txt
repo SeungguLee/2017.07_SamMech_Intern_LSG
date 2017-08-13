@@ -1,0 +1,9 @@
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\bin\Debug\ChartExercise01(0726).exe.config
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\bin\Debug\ChartExercise01(0726).exe
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\bin\Debug\ChartExercise01(0726).pdb
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\obj\Debug\ChartExercise01(0726).csprojResolveAssemblyReference.cache
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\obj\Debug\ChartExercise01_0726_.Form1.resources
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\obj\Debug\ChartExercise01_0726_.Properties.Resources.resources
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\obj\Debug\ChartExercise01(0726).csproj.GenerateResource.Cache
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\obj\Debug\ChartExercise01(0726).exe
+C:\Users\LSG-LAPTOP\Documents\GitHubBySourceTree\ChartExercise01(0726)\ChartExercise01(0726)\obj\Debug\ChartExercise01(0726).pdb

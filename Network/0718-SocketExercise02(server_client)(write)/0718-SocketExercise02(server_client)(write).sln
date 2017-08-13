@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0718-SocketExercise02(Server)(write)", "0712SocketExercise01(server_client)\0718-SocketExercise02(Server)(write).csproj", "{7A498749-7A3B-41F7-8048-6C925CBCE832}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0718-SocketExercise02(Client)(write)", "0712SocketExercise01(Only_client)\0718-SocketExercise02(Client)(write).csproj", "{7A4A477B-8373-483C-9853-72510BC973E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A498749-7A3B-41F7-8048-6C925CBCE832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A498749-7A3B-41F7-8048-6C925CBCE832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A498749-7A3B-41F7-8048-6C925CBCE832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A498749-7A3B-41F7-8048-6C925CBCE832}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4A477B-8373-483C-9853-72510BC973E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4A477B-8373-483C-9853-72510BC973E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4A477B-8373-483C-9853-72510BC973E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4A477B-8373-483C-9853-72510BC973E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
